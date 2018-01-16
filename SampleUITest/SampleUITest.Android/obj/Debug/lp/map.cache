@@ -1,6 +1,9 @@
 FormsViewGroup
 SampleUITest
 System.Runtime
+Xamarin.Android.Arch.Core.Common
+Xamarin.Android.Arch.Lifecycle.Common
+Xamarin.Android.Arch.Lifecycle.Runtime
 Xamarin.Android.Support.Animated.Vector.Drawable
 Xamarin.Android.Support.Annotations
 Xamarin.Android.Support.Compat
@@ -22,6 +25,6 @@ Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
 netstandard
+SampleUITest.Business
 System.ComponentModel
 System.Reflection.Extensions
-SampleUITest.Business

@@ -9,6 +9,9 @@ E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\android\asse
 E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\android\assets\System.Runtime.dll
 E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\android\assets\System.Xml.dll
 E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\android\assets\System.Xml.Linq.dll
+E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\android\assets\Xamarin.Android.Arch.Core.Common.dll
+E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
 E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\android\assets\Xamarin.Android.Support.Annotations.dll
 E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\android\assets\Xamarin.Android.Support.Compat.dll

@@ -50,6 +50,11 @@ E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\res\layout\t
 E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\res\values\styles.xml
 E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\R.cs.flag
 E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\uploadflags.txt
+E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\bin\Debug\SampleUITest.Android.dll.mdb
+E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
 E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\android\assets\SampleUITest.Android.dll.mdb
 E:\idsfGit\SampleUITest\SampleUITest\SampleUITest.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb

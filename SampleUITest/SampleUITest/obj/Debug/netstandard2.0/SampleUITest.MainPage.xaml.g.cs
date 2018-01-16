@@ -11,8 +11,7 @@
 namespace SampleUITest {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Proyectos\\Xamarin\\Ejemplos\\SampleUITest\\SampleUITest\\SampleUITest\\SampleUITest" +
-        "\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\idsfGit\\SampleUITest\\SampleUITest\\SampleUITest\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
