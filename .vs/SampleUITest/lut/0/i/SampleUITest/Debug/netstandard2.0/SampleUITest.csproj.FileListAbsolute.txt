@@ -1,0 +1,8 @@
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\i\SampleUITest\Debug\netstandard2.0\SampleUITest.csprojResolveAssemblyReference.cache
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\i\SampleUITest\Debug\netstandard2.0\SampleUITest.csproj.CoreCompileInputs.cache
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\i\SampleUITest\Debug\netstandard2.0\SampleUITest.App.xaml.g.cs
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\i\SampleUITest\Debug\netstandard2.0\SampleUITest.MainPage.xaml.g.cs
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\i\SampleUITest\Debug\netstandard2.0\SampleUITest.AssemblyInfoInputs.cache
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\i\SampleUITest\Debug\netstandard2.0\SampleUITest.AssemblyInfo.cs
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\i\SampleUITest\Debug\netstandard2.0\SampleUITest.dll
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\i\SampleUITest\Debug\netstandard2.0\SampleUITest.pdb

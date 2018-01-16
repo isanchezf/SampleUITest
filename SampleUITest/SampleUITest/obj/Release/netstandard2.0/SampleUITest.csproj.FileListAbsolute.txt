@@ -1,0 +1,13 @@
+E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest\SampleUITest\bin\Release\netstandard2.0\SampleUITest.deps.json
+E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest\SampleUITest\bin\Release\netstandard2.0\SampleUITest.dll
+E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest\SampleUITest\bin\Release\netstandard2.0\SampleUITest.pdb
+E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest\SampleUITest\obj\Release\netstandard2.0\SampleUITest.csproj.CoreCompileInputs.cache
+E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest\SampleUITest\obj\Release\netstandard2.0\SampleUITest.App.xaml.g.cs
+E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest\SampleUITest\obj\Release\netstandard2.0\SampleUITest.MainPage.xaml.g.cs
+E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest\SampleUITest\obj\Release\netstandard2.0\SampleUITest.AssemblyInfoInputs.cache
+E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest\SampleUITest\obj\Release\netstandard2.0\SampleUITest.AssemblyInfo.cs
+E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest\SampleUITest\obj\Release\netstandard2.0\SampleUITest.dll
+E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest\SampleUITest\obj\Release\netstandard2.0\SampleUITest.pdb
+E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest\SampleUITest\bin\Release\netstandard2.0\SampleUITest.Business.dll
+E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest\SampleUITest\bin\Release\netstandard2.0\SampleUITest.Business.pdb
+E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest\SampleUITest\obj\Release\netstandard2.0\SampleUITest.csprojResolveAssemblyReference.cache

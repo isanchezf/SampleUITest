@@ -1,0 +1,9 @@
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\b\SampleUITest.Business\Debug\netstandard2.0\SampleUITest.Business.deps.json
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\b\SampleUITest.Business\Debug\netstandard2.0\SampleUITest.Business.dll
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\b\SampleUITest.Business\Debug\netstandard2.0\SampleUITest.Business.pdb
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\i\SampleUITest.Business\Debug\netstandard2.0\SampleUITest.Business.csprojResolveAssemblyReference.cache
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\i\SampleUITest.Business\Debug\netstandard2.0\SampleUITest.Business.csproj.CoreCompileInputs.cache
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\i\SampleUITest.Business\Debug\netstandard2.0\SampleUITest.Business.AssemblyInfoInputs.cache
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\i\SampleUITest.Business\Debug\netstandard2.0\SampleUITest.Business.AssemblyInfo.cs
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\i\SampleUITest.Business\Debug\netstandard2.0\SampleUITest.Business.dll
+E:\idsfGit\SampleUITest\.vs\SampleUITest\lut\0\i\SampleUITest.Business\Debug\netstandard2.0\SampleUITest.Business.pdb
