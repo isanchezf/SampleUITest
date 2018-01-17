@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleUITest.Android", "Sam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleUITest.iOS", "SampleUITest\SampleUITest.iOS\SampleUITest.iOS.csproj", "{739CA2FA-D696-40D1-86B2-B4516D80CA77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleUITest", "SampleUITest\SampleUITest\SampleUITest.csproj", "{EE98ECE2-11A7-4477-8DD8-8FB538917635}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleUITest", "SampleUITest\SampleUITest\SampleUITest.csproj", "{EE98ECE2-11A7-4477-8DD8-8FB538917635}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App", "App", "{DA3198AF-EDD1-4016-8171-05D12CCD0623}"
 EndProject
@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleUITest.UITest", "Samp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{D2FCF09F-46E9-4BCB-98ED-5279A7017ACC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleUITest.Business", "SampleUITest.Business\SampleUITest.Business.csproj", "{47433BE9-0744-4DEB-8081-93B11E4C0CD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleUITest.Business", "SampleUITest.Business\SampleUITest.Business.csproj", "{47433BE9-0744-4DEB-8081-93B11E4C0CD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

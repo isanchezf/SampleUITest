@@ -1,9 +1,0 @@
-E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest.Business\bin\Release\netstandard2.0\SampleUITest.Business.deps.json
-E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest.Business\bin\Release\netstandard2.0\SampleUITest.Business.dll
-E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest.Business\bin\Release\netstandard2.0\SampleUITest.Business.pdb
-E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest.Business\obj\Release\netstandard2.0\SampleUITest.Business.csproj.CoreCompileInputs.cache
-E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest.Business\obj\Release\netstandard2.0\SampleUITest.Business.AssemblyInfoInputs.cache
-E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest.Business\obj\Release\netstandard2.0\SampleUITest.Business.AssemblyInfo.cs
-E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest.Business\obj\Release\netstandard2.0\SampleUITest.Business.dll
-E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest.Business\obj\Release\netstandard2.0\SampleUITest.Business.pdb
-E:\Proyectos\Xamarin\Ejemplos\SampleUITest\SampleUITest\SampleUITest.Business\obj\Release\netstandard2.0\SampleUITest.Business.csprojResolveAssemblyReference.cache
