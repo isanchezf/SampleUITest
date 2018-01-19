@@ -1,19 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-using Xamarin.Forms;
-
-namespace SampleUITest
+﻿namespace SampleUITest
 {
-	public partial class App : Application
+    using Xamarin.Forms;
+
+    public partial class App 
 	{
 		public App ()
 		{
-			InitializeComponent();
-
-			MainPage = new SampleUITest.MainPage();
+		    InitializeComponent();
+			MainPage = new MainPage();
 		}
 
 		protected override void OnStart ()

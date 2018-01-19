@@ -13,11 +13,14 @@ namespace SampleUITest.UITest
         {
             if (platform == Platform.Android)
             {
-                string pathApk = "../../../SampleUITest/SampleUITest.Android/bin/Release/com.companyname.SampleUITest.apk";
+                //var pathApk = "../../../SampleUITest/SampleUITest.Android/bin/release/com.companyname.SampleUITest.apk";
+                const string pathApk = "C:/Users/isanchez.INTERGRUPO/Desktop/ApkSample/com.companyname.SampleUITest.apk";
+
                 return ConfigureApp
                     .Android
                     .ApkFile(pathApk)
                     //.InstalledApp("com.companyname.SampleUITest")
+                    .KeyStore("C:/Users/isanchez.INTERGRUPO/AppData/Local/Xamarin/Mono for Android/Keystore/sampleuitestkey/sampleuitestkey.keystore", "123456", "123456", "sampleuitestkey")
                     .StartApp();
             }
 
